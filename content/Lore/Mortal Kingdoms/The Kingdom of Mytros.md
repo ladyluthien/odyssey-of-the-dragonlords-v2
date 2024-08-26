@@ -1,0 +1,5 @@
+## The Kingdom of Mytros
+
+The city of Mytros was the first settlement founded by the Dragonlords. It was protected by the Goddess of Dawn and grew into a mighty kingdom after the end of the First War. It is the largest city in all of Thylea and the center of commerce, religion, and politics. The Great Games are held outside of the city once a year. The Temple of the Five stands at the center of the city, but in recent years the worship of [[Sydon]] has been growing in popularity. The Titan now has his own grand temple that stands across the street from the Temple of the Five.  
+
+Mytros is ruled by the mighty King Acastus, the last true descendant of the Dragonlords. Acastus is revered across all of Thylea and he is the husband of Queen [[Vallus]], the wisest of the Five Gods. Through some miraculous feat of magic, he has recently resurrected the race of dragons, which were thought to be extinct since the end of the First War. He now seeks to rebuild the ancient order of the Dragonlords and restore the city of Mytros to its former glory.

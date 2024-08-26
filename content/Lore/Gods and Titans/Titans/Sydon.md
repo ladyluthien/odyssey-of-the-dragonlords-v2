@@ -1,0 +1,4 @@
+#### Sydon, The Lord of Storms  
+Sydon is the Lord of the Oceans and all that flows from them. He takes the form of a colossal, bearded man with three eyes, and he carries a terrifying black trident. He surveys both land and water tirelessly, summoning storms to punish those who displease him. Sydon is a jealous and vengeful god who makes no allowances for the worship of any god but himself or his sister-wife, [[Lutheria]].  
+
+Every temple in Thylea fears the wrath of Sydon. Daily sacrifices are offered to him in every village, even as the settlers continue their silent prayers to the Five. Whenever thunder rolls through the skies of Thylea, you can be sure that someone has provoked Sydon’s anger.

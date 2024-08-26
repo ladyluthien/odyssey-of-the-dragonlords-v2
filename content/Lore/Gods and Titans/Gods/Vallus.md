@@ -1,0 +1,2 @@
+#### Vallus, The Goddess of Wisdom
+Vallus is revered as the goddess of wisdom and beauty, and she is believed to know as much about Thylea’s history as [[Sydon]] and [[Lutheria]]. She was once known to travel far and wide, surveying ancient ruins and collecting lore concerning the origins of the land and the fey races. Prayers are offered to Vallus when guidance is needed and information is scarce. She is the oldest daughter of Mytros and, in many ways, she has inherited her mother’s legacy, serving as both queen and patron goddess to the city.

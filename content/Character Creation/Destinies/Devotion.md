@@ -1,0 +1,3 @@
+https://a5e.tools/rules/devotion
+
+***Note.*** The Gods expect their due, including death. If you die to fulfill this Destiny, you are brought back as written, but only because you have unfinished business. Once that is completed, you die again, this time permanently (albeit in a setting of your choice, so you could arrange a nice operatic death scene). You *might* be able to get around this by making a deal with a god OR by becoming a god yourself. 

@@ -1,0 +1,3 @@
+#### Volkan, The God of Forges
+  
+Not much is known about Volkan except that he is the husband of [[Mytros]]. He concerns himself with artifice and crafting and is primarily worshipped by dwarves, smiths, and wizards. He is depicted as an elderly and wise-looking man (and sometimes as a dwarf). He is rumored to travel through the Heartlands on the winter solstice, distributing toys and sweets to children.

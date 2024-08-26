@@ -1,0 +1,4 @@
+#### Lutheria, The Lady of Dreams
+Lutheria takes the form of a beautiful, black-eyed woman who sleepwalks through the underworld, greeting the spirits of the dead. She carries a crystal scythe, which she uses to harvest the souls of those who displeased her in life. Lutheria commands her followers to live without remorse, to drink, dance, and feast to their heart’s desire, because any day could be their last. She is a mother to the fey races of Thylea, who she strongly favors.  
+  
+Worship of Lutheria is rare among settlers, but she is nevertheless honored with many feasts and festivals because [[Sydon]] demands it. Whenever any drink is poured, a libation must be made to Lutheria or else a swift punishment is sure to follow.

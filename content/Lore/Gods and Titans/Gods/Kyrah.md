@@ -1,0 +1,2 @@
+#### Kyrah, The Goddess of Music
+Kyrah is revered as the trickster goddess of music and poetry. She is the swiftest of all the gods, capable of disappearing in the blink of an eye and she can travel great distances with each step. Her voice is said to be more beautiful than any musical instrument. There are very few shrines to her, except among bards, who revere her as the Muse.

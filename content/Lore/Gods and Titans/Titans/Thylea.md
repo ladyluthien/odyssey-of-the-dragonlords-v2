@@ -1,0 +1,2 @@
+#### Thylea, Great Mother of All
+Thylea is the namesake of the Lost Land. She takes the form of a gargantuan tree on an island at the heart of the Cerulean Gulf, and her followers believe that her roots reach deep into the earth, binding the world together in an eternal embrace. Thylea is believed to be a generous, life-giving goddess. The Druids of the Oldwood believe that her will is communicated through the changing of the seasons, rather than through words. Long winters, for example, signal her displeasure; long summers are a sign of her approval.
