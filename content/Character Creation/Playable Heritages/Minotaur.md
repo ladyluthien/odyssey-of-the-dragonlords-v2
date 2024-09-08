@@ -1,5 +1,7 @@
 https://a5e.tools/rules/minotaur
 
+***Note.*** If you select the Driving Horns heritage gift, you can choose to Shove or Knockdown. 
+
 Selecting this heritage *will* be a plot point, and I recommend you select the [[Prophecy]] destiny. [[Revenge]] might also be plausible. 
 
 ### Legend of the Minotaurs

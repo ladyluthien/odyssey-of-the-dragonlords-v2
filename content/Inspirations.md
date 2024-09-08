@@ -14,8 +14,11 @@ I'm not going to listen to an entire musical, pt. 2: fineeeee. They did a [perfo
 
 ### Anouilh's *Antigone*
 This one unapologetically rocks. Originally French, originally performed under Nazi occupation, and as a result very interested in the dynamic between the status quo and revolution. You can read the whole thing here in a [30-page, kind of crusty pdf](https://sfponline.org/Uploads/8/Antigone.pdf)
-### Big Love 
+### *Big Love*
 Also a play. Okay, I can't say this is like. an actual inspiration, but I teched it in high school and it's so profoundly fucked that I can't claim it's *not* in there, just as a whisper. It's entirely available [online](https://www.charlesmee.org/big-love.shtml) but don't say I didn't warn you. 
-### Disney's Hercules
+### Disney's *Hercules*
 ...Do I really need to say it? 
-
+### *Assassin's Creed: Odyssey*
+Impressively accurate in its recreation of ancient Greece and a *ripping* good time. Tag-teamed it with my partner during deep COVID and you'll find its influences here.
+### *The God of Arepo*
+An interesting little webcomic that started as a writing prompt, turned into collaborative fiction, and then was illustrated. Free to download [here](https://reimenayee.itch.io/the-god-of-arepo). It's not explicitly Greek at all, but it's an interesting look at transactional godhood and its alternatives, as well as a nice, heartfelt little story. 

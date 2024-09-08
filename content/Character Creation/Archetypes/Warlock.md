@@ -110,8 +110,13 @@ At 14th level, you require six death saving throw failures to die instead of thr
 ### Unnaturalist
 https://a5e.tools/node/3786
 
-***Note.*** The level 14 feature is replaced with the following, since oozes and aberrations are hardly as ancient-Greek-y as a *hydra*:
+***Note.*** The levels 10 and 14 features are replaced with the following, since oozes and aberrations are hardly as ancient-Greek-y as a *hydra*:
 #### Expanded Monstrous Shape
-At 14th level, you can learn the shape of monstrosities equal to half your warlock level.
+At 10th level, you learn the shape of monstrosities equal in CR to half your warlock level. If the CR of the monster is greater than 1/3rd your level, you do not add your spellcasting ability modifier to the armor class. 
 
 Additionally, you can now use your Monstrous Shape feature a number of times equal to half your proficiency bonus per short rest without using spell points.
+
+#### Reliably Unnatural
+At 14th level, you can use any eldritch invocation while in your Monstrous Shape. If the invocation grants you a specific spell (as opposed to an expanded spell list), you can cast that spell while in Monstrous Shape even if it does not have a range of self or touch. 
+
+In addition, you may cast *dominate monster* as a ritual. 
