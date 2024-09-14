@@ -18,6 +18,10 @@ craft a ring with a priceless gem, create a beautiful and functional prosthesis 
 - It takes you half the amount of time and material cost to produce the work.
 - The piece always fetches more than the maximum selling price.
 
+***Variant Fulfillment Feature.*** If your craft does not produce physical items but rather intangible ones, such as performances, you instead can choose the following fulfillment feature:
+- You have advantage on Performance checks made to perform your work, and you earn double what you otherwise would in royalties. 
+- Your Fame is (almost) untarnishable. When you would lose an amount of Fame, you instead lose half that amount (minimum 1). 
+
 #### Motivation
 1 | Perfection: You wish to perfect your craft.
 
